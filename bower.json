@@ -1,0 +1,23 @@
+{
+  "name": "you_can_try",
+  "authors": [
+    "Joseph Carrington <joseph.carrington@gmail.com>"
+  ],
+  "description": "A social experiment game",
+  "main": "",
+  "keywords": [
+    "Game"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser-ce": "^2.8.3"
+  }
+}

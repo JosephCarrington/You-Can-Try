@@ -1,0 +1,31 @@
+{
+  "name": "you_can_try",
+  "version": "0.0.1",
+  "description": "A social experiment game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephCarrington/You-Can-Try.git"
+  },
+  "keywords": [
+    "Game"
+  ],
+  "author": "Joseph Carrington",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephCarrington/You-Can-Try/issues"
+  },
+  "homepage": "https://github.com/JosephCarrington/You-Can-Try#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-typescript": "^3.2.1",
+    "typings": "^2.1.1",
+    "wiredep": "^4.0.0"
+  }
+}
